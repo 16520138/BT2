@@ -1,0 +1,14 @@
+E:\HK_I\Xamarin\prac\BT2\BT2\BT2\bin\Debug\netstandard2.0\BT2.deps.json
+E:\HK_I\Xamarin\prac\BT2\BT2\BT2\bin\Debug\netstandard2.0\BT2.dll
+E:\HK_I\Xamarin\prac\BT2\BT2\BT2\bin\Debug\netstandard2.0\BT2.pdb
+E:\HK_I\Xamarin\prac\BT2\BT2\BT2\obj\Debug\netstandard2.0\BT2.csprojAssemblyReference.cache
+E:\HK_I\Xamarin\prac\BT2\BT2\BT2\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\HK_I\Xamarin\prac\BT2\BT2\BT2\obj\Debug\netstandard2.0\FlowerPage.xaml.g.cs
+E:\HK_I\Xamarin\prac\BT2\BT2\BT2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\HK_I\Xamarin\prac\BT2\BT2\BT2\obj\Debug\netstandard2.0\BT2.csproj.CoreCompileInputs.cache
+E:\HK_I\Xamarin\prac\BT2\BT2\BT2\obj\Debug\netstandard2.0\BT2.AssemblyInfoInputs.cache
+E:\HK_I\Xamarin\prac\BT2\BT2\BT2\obj\Debug\netstandard2.0\BT2.AssemblyInfo.cs
+E:\HK_I\Xamarin\prac\BT2\BT2\BT2\obj\Debug\netstandard2.0\XamlC.stamp
+E:\HK_I\Xamarin\prac\BT2\BT2\BT2\obj\Debug\netstandard2.0\BT2.dll
+E:\HK_I\Xamarin\prac\BT2\BT2\BT2\obj\Debug\netstandard2.0\BT2.pdb
+E:\HK_I\Xamarin\prac\BT2\BT2\BT2\obj\Debug\netstandard2.0\GroupFlower.xaml.g.cs
